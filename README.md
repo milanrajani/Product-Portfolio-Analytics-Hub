@@ -98,7 +98,7 @@ This project demonstrates:
 
 - `SubCategory_Performance_Dashboard.twbx` – Main Tableau workbook
 - `README.md` – This documentation file
-- `Dataset/` – Source data files (if applicable)
+- `Superstore dataset` – Source data files
 
 ## 🎯 Key Insights Example
 
@@ -114,16 +114,6 @@ The dashboard reveals patterns such as:
 - **Data Source**: Superstore dataset (CSV/Excel format)
 - **Compatibility**: Tableau 2020.2+
 - **Interactivity**: Filter actions, parameter actions, table calculations
-
-## 📞 Contact & Support
-
-For questions about this dashboard or to request modifications, please refer to the project documentation or contact the development team.
-
----
-
-**Status**: ✅ Complete  
-**Last Updated**: March 2026  
-**Version**: 1.0
 
 ---
 
